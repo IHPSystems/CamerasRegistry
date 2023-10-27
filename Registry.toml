@@ -1,0 +1,5 @@
+name = "CamerasRegistry"
+uuid = "4b9fdf3e-d1cb-4883-a3ad-dfa15360f820"
+repo = "https://github.com/IHPSystems/CamerasRegistry.git"
+
+[packages]
